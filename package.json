@@ -1,0 +1,22 @@
+{
+  "name": "pi-prompt-master",
+  "version": "2.0.0",
+  "description": "Pi skill that writes production-ready prompts for the pi coding agent — task briefs, skill descriptions, prompt templates. Exclusive to pi.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "skill",
+    "prompt-engineering",
+    "prompts"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhinjs/prompt-master.git"
+  },
+  "files": [
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ]
+}
