@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nidhinjs/prompt-master.git"
+    "url": "git+https://github.com/benjaminjamesxyz/pi-prompt-master.git"
   },
   "files": [
     "skills/",
