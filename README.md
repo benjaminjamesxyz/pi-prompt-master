@@ -17,7 +17,7 @@ pi install npm:pi-prompt-master
 ### From git
 
 ```bash
-pi install git:github.com/benjaminjamesxyz/pi-prompt-master@main
+pi install git:github.com/benjaminjamesxyz/pi-prompt-master@master
 ```
 
 ### From local clone (development)
